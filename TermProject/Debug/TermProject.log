@@ -1,0 +1,12 @@
+﻿  Simulator.cpp
+c:\users\mariali\source\repos\termproject\termproject\simulator.cpp(7): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\mariali\source\repos\termproject\termproject\simulator.cpp(68): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\mariali\source\repos\termproject\termproject\simulator.cpp(69): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\mariali\source\repos\termproject\termproject\simulator.cpp(71): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\mariali\source\repos\termproject\termproject\simulator.cpp(125): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\mariali\source\repos\termproject\termproject\simulator.cpp(131): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\mariali\source\repos\termproject\termproject\simulator.cpp(174): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\mariali\source\repos\termproject\termproject\simulator.cpp(176): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\mariali\source\repos\termproject\termproject\simulator.cpp(208): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\mariali\source\repos\termproject\termproject\simulator.cpp(210): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  TermProject.vcxproj -> C:\Users\MariAli\source\repos\TermProject\Debug\TermProject.exe
